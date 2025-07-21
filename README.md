@@ -11,7 +11,8 @@ basé pour le serveur discord Polyvaland, Serveur FR
 - le bot possède des commandes alternatives pour des sites comme roblox, instagram
 
 
-
+-- bot codé par @a5x
+- idée @ftk456
 
 💲 Déstiné à gérer l'économie du serveur
 🚀 En constante évolution
