@@ -72,6 +72,9 @@ class Help(commands.Cog):
                 "**/configmagasin** - Config le magasin\n"
                 "**/configmagasindelete** - Supp des articles du magasin\n"
                 "**/ticket** - Permet de crée u ticket depuis n'importe ou\n"
+                "**/robloxprofile** - Permet de voir le profile d'un compte roblox\n"
+                "**/instagramprofile** - Permet de voir le porfile instagram\n"
+                "**/statusbot** - Permet de personnalisée le status du bot et le rich presence\n"
             ),
             color=discord.Color.blue()
         )
